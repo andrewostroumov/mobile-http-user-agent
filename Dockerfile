@@ -22,5 +22,6 @@ RUN apk --no-cache add ca-certificates
 WORKDIR /app
 
 COPY --from=builder /build/mobile-http-user-agent /build/docs /build/.version /build/.revision /app/
+COPY --from=builder /build/docs /app/docs/
 
 CMD ["./mobile-http-user-agent", "--rev.ver-path=.version", "--rev.rev-path=.revision"]

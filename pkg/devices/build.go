@@ -50,7 +50,6 @@ func minChromeIndex() int {
 			continue
 		}
 
-		fmt.Println(v)
 		for j, name := range chromeMajorRegexp.SubexpNames() {
 			if name == "major" {
 				major, err := strconv.Atoi(match[j])
