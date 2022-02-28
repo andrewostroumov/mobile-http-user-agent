@@ -37,7 +37,7 @@ SELECT * FROM (
     SELECT manufacturer, model, build, cpu_description, display_x, display_y, cast(substring(base_android_version from '^\d\.\d') as double precision) as base_android_version, dpi, build_os_device
     FROM devices_temp
 ) inner_query
-WHERE base_android_version > 4.1
+WHERE base_android_version > 6.0
 ON CONFLICT ON CONSTRAINT devices_fingerprint_uniq
 DO UPDATE SET
    cpu_description      = EXCLUDED.cpu_description,

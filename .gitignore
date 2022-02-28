@@ -1,2 +1,7 @@
 .idea
-docs/devices.csv
+
+.revision
+.go-version
+
+build_run.sh
+mobile-http-user-agent
