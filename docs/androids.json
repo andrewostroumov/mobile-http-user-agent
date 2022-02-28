@@ -1,0 +1,12 @@
+{
+  "android": [
+    { "api": 23, "id": 600, "version": "6.0"   },
+    { "api": 23, "id": 601, "version": "6.0.1" },
+    { "api": 24, "id": 700, "version": "7.0"   },
+    { "api": 25, "id": 710, "version": "7.1"   },
+    { "api": 25, "id": 711, "version": "7.1.1" },
+    { "api": 25, "id": 712, "version": "7.1.2 "},
+    { "api": 26, "id": 800, "version": "8.0.0" },
+    { "api": 27, "id": 810, "version": "8.1.0" }
+  ]
+}

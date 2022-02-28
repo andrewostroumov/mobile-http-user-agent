@@ -1,0 +1,576 @@
+{
+  "chrome": [
+    {
+      "chrome_rev": "10.0.649.0",
+      "webkit_rev": "534.17"
+    },
+    {
+      "chrome_rev": "11.0.696.3",
+      "webkit_rev": "534.24"
+    },
+    {
+      "chrome_rev": "11.0.696.34",
+      "webkit_rev": "534.24"
+    },
+    {
+      "chrome_rev": "12.0.742.100",
+      "webkit_rev": "534.30"
+    },
+    {
+      "chrome_rev": "21.0.1180.83",
+      "webkit_rev": "537.1"
+    },
+    {
+      "chrome_rev": "22.0.1229.94",
+      "webkit_rev": "537.4"
+    },
+    {
+      "chrome_rev": "25.0.1364.152",
+      "webkit_rev": "537.22"
+    },
+    {
+      "chrome_rev": "26.0.1410.64",
+      "webkit_rev": "537.31"
+    },
+    {
+      "chrome_rev": "27.0.1453",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "28.0.1500.94",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "31.0.1650.63",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "33.0.1750.152",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "34.0.1847.131",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "36.0.1985.125",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "36.0.1985.143",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "37.0.2049.0",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "37.0.2062.124",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "38.0.2125.104",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "38.0.2125.111",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "40.0.2214.111",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "40.0.2214.115",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "40.0.2214.85",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "41.0.2226.0",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "41.0.2228.0",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "41.0.2272.101",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "41.0.2272.104",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "41.0.2272.118",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "41.0.2272.89",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "42.0.2311.135",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "42.0.2311.152",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "42.0.2311.90",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "43.0.2357.124",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "43.0.2357.130",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "43.0.2357.134",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "43.0.2357.65",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "43.0.2357.81",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "43.0.2357.93",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "44.0.2403.125",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "44.0.2403.157",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "45.0.2454.101",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "45.0.2454.85",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "45.0.2454.93",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "46.0.2490.71",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "46.0.2490.80",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "46.0.2490.86",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "47.0.2526.106",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "47.0.2526.111",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "47.0.2526.73",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "47.0.2526.80",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "48.0.2564.109",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "48.0.2564.116",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "48.0.2564.97",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "49.0.2623.110",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "49.0.2623.112",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "49.0.2623.87",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "50.0.2661.75",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "50.0.2661.94",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "51.0.2704.103",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "51.0.2704.106",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "52.0.2743.116",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "52.0.2743.98",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "53.0.2785.116",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "53.0.2785.124",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "54.0.2840.71",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "54.0.2840.99",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "55.0.2883.87",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "55.0.2883.91",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "55.0.2883.95",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "56.0.2924.122",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "56.0.2924.76",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "56.0.2924.87",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "57.0.2987.133",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "57.14.2987.98",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "58.0.3029.110",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "58.0.3029.81",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "58.0.3029.83",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "58.0.3029.96",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "59.0.3071.115",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "59.0.3071.125",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "60.0.3112.101",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "60.0.3112.113",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "60.0.3112.116",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "60.0.3112.90",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "61.0.3163.100",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "61.0.3163.79",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "61.0.3163.98",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "62.0.3202.62",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "62.0.3202.84",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "62.0.3202.89",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "62.0.3202.94",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "63.0.3239.108",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "63.0.3239.111",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "63.0.3239.132",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "63.0.3239.83",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "63.0.3239.84",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "64.0.3282.119",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "64.0.3282.140",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "64.0.3282.167",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "64.0.3282.186",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "64.0.3282.24",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "65.0.3325.109",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "65.0.3325.162",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "65.0.3325.181",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "65.0.3325.230",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "66.0.3359.117",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "66.0.3359.139",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "66.0.3359.181",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "67.0.3396.79",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "67.0.3396.87",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "67.0.3396.99",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "68.0.3440.106",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "68.0.3440.75",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "68.0.3440.84",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "68.0.3440.91",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "69.0.3497.100",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "69.0.3497.92",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "70.0.3538.102",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "70.0.3538.110",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "70.0.3538.67",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "70.0.3538.77",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "70.0.3538.80",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "71.0.3578.80",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "71.0.3578.98",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "72.0.3626.109",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "72.0.3626.119",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "72.0.3626.121",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "73.0.3683.103",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "74.0.3729.125",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "74.0.3729.131",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "74.0.3729.157",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "74.0.3729.169",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "75.0.3770.100",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "75.0.3770.142",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "75.0.3770.144",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "75.0.3770.80",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "76.0.3809.100",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "76.0.3809.132",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "77.0.3865.105",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "77.0.3865.120",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "77.0.3865.90",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "78.0.3904.70",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "78.0.3904.87",
+      "webkit_rev": "537.36"
+    },
+    {
+      "chrome_rev": "78.0.3904.97",
+      "webkit_rev": "537.36"
+    }
+  ]
+}
