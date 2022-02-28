@@ -1,8 +1,10 @@
 .idea
 
-.revision
+.gitignore
 .env.docker
 .go-version
 
+build_image.sh
 build_run.sh
+
 mobile-http-user-agent
