@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-const MinChromeRev = 64
+const MinChromeRev = 78
 const MinAndroidAPI = 27
 
 var chromeMajorRegexp = regexp.MustCompile(`(?P<major>^\d+)`)
